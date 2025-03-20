@@ -1,6 +1,6 @@
 # test_calculadora_pytest.py
 import pytest
-from calculadora import Calculadora
+from src.calculadora import Calculadora
 
 @pytest.fixture
 def calc():
