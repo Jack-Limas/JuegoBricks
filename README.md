@@ -65,3 +65,7 @@ pytest --version
 pytest 8.3.5
 ```
 
+## Integrante
+- Jack Anderson Limas Solarte
+- Ingerieria de sofware - Cuarto semestre
+- ID: 871787
